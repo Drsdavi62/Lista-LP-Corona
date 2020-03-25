@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585095208 source:c:\users\davi\documents\projetoscodeblocks\lp-ex8\main.c
+	<stdio.h>
+	<stdlib.h>
+

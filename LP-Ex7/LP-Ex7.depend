@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585095129 source:c:\users\davi\documents\projetoscodeblocks\lp-ex7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
